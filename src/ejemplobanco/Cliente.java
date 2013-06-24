@@ -16,6 +16,12 @@ public class Cliente {
     public Cliente() {
         
     }
+
+    public long getIdCliente() {
+        return idCliente;
+    }
+    
+    
     
     
 }
