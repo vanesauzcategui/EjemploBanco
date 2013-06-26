@@ -6,7 +6,7 @@ package ejemplobanco;
 
 /**
  *
- * @author Noheli@ V@ness@ Orteg@ Alvarez
+ * @author Noheli@ V@ness@ Orteg@ Alvarez neheliaaaaaaaaaaaaaaaaaaa
  */
 public class Cliente {
     
