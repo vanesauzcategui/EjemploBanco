@@ -4,6 +4,9 @@
  */
 package ejemplobanco;
 
+import java.io.IOException;
+import java.util.ArrayList;
+
 /**
  *
  * @author Noheli@ V@ness@ Orteg@ Alvarez
@@ -13,7 +16,13 @@ public class EjemploBanco {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+     static ArrayList<Cliente> clientes = new ArrayList<>();
+    
+    
+    public static void main(String[] args) throws IOException{
         // TODO code application logic here
+    
+     
+     
     }
 }
