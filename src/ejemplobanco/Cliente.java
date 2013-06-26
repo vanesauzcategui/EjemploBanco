@@ -5,9 +5,7 @@
 package ejemplobanco;
 
 /**
- *
- * @author Noheli@ V@ness@ Orteg@ Alvarez neheliaaaaaaaaaaaaaaaaaaa
- */
+ 
 public class Cliente {
     
     long idCliente;
