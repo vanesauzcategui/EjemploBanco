@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  *
- * Autor: Joaquín Delgado
+ * @author Joaquín
  */
 public class CuentaBancaria {
     Date fechaApertura;
@@ -92,11 +92,4 @@ public class CuentaBancaria {
         public TipoCuenta() {
         }
     }
-
-    
-    
-    
-    
-    
-    
 }
