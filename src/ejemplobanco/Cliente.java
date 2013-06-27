@@ -19,7 +19,7 @@ public class Cliente {
         return idCliente;
     }
     
-    //prueba
+    //autor Diana Estupiñan
     
     
 }
